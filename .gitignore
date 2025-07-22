@@ -1,0 +1,12 @@
+node_modules
+.history
+dist
+.vscode
+.DS_Store
+.env
+.idea
+*.log
+*.tmp
+*.swp
+*.bak
+*.orig
